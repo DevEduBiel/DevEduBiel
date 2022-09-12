@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá!!! Seja bem vindo ao meu perfil meu caro amigo dev.<br>Eu sou o Eduardo Gabriel e tenho 21 anos. <br>Venha acompanhar minha jornada como programador<br>Já tive algumas experiências na área, mas agora estou 100% focado nos estudo.<br>Atualmente estou cursando o primeiro semente em ADS.<br><br>🏐-Como hobbies tenho a musculação e o vôlei.<br>🛫-Adoro viajar<br>🎶-Gosto de ouvir musicas, principalmente Heavy Metal.<br>🤖-#alunoSPtech🤖<br>  <br>Entre em contato comigo: eduardo.vitorino@sptech.school
+<b>Olá!!! Seja bem vindo ao meu perfil caro amigo dev.<br>Eu sou o Eduardo Gabriel e tenho 21 anos. <br>Venha acompanhar minha jornada como programador<br>Já tive algumas experiências na área, mas agora estou 100% focado nos estudo.<br>Atualmente estou cursando o primeiro semente em ADS.<br><br>🏐-Como hobbies tenho a musculação e o vôlei.<br>🛫-Adoro viajar<br>🎶-Gosto de ouvir musicas, principalmente Heavy Metal.<br>🤖-#alunoSPtech🤖<br>  <br>Entre em contato comigo: eduardo.vitorino@sptech.school</b>
 
 
 # 💻 Tech Stack:
