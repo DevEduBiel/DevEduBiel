@@ -1,5 +1,5 @@
 # 💫 Sobre Mim:
-🏐-Como hobbies tenho a musculação e o vôlei.<br>🛫-Adoro viajar<br>🎶-Gosto de ouvir musicas, principalmente Heavy Metal.<br>🤖-#alunoSPtech🤖<br>  <br>Entre em contato comigo: eduardo.vitorino@sptech.school</b>
+🏐-Como hobbies tenho a musculação e o vôlei.<br>🛫-Adoro viajar.<br>🎶-Gosto de ouvir musicas, principalmente Heavy Metal.<br>🤖-#alunoSPtech.<br>  <br>Entre em contato comigo: eduardo.vitorino@sptech.school</b>
 
 
 ![](https://github-readme-stats.vercel.app/api?username=DevEduBiel&theme=radical&hide_border=false&include_all_commits=false&count_private=false)
